@@ -9,12 +9,14 @@
                 "remontka.pro",
                 "ggsel.net",
                 "steamcommunity.com",
+                "www.twitch.tv",
                 "vk.com"
             ],
             "domain_regex": [
                 "(^|\\\\.)i-test\\\\.net$"
             ],
             "ip_cidr": [
+                "155.133.229.4",
                 "178.209.127.58"
             ],
             "name": "Simple Address Bypass",
@@ -32,7 +34,10 @@
             "process_name": [
                 "DyingLightGame_x64_rwdi.exe",
                 "EOSOverlayRenderer-Win64-Shipping.exe",
+                "DeltaForceClient-Win64-Shipping.exe",
                 "Steam.exe",
+                "deadlock.exe",
+                "eso64.exe",
                 "qbittorrent.exe",
                 "cod.exe",
                 "YouTube Music.exe"
